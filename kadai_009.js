@@ -3,6 +3,11 @@ console.log(holidays.length);
 
 let i = 0
  while (i < holidays.length){ 
-  console.log(holidays[i])
+  console.log(holidays[i]);
   i++
+ }
+
+
+ for (let i = 0; i <= 15; i++){
+  console.log(holidays[i]);
  }
